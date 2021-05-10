@@ -1,0 +1,141 @@
+﻿Cod_com,Region,Cod_reg,Comuna,Estacion
+15101,Arica y Parinacota,15,Arica,Arica
+1107,Tarapacá,1,Alto Hospicio,Alto_Hospicio
+2101,Antofagasta,2,Antofagasta,Antofagasta
+2101,Antofagasta,2,Antofagasta,Playa_Blanca
+2101,Antofagasta,2,Antofagasta,Rendic
+2101,Antofagasta,2,Antofagasta,Sur
+2201,Antofagasta,2,Calama,Chiu_Chiu
+2201,Antofagasta,2,Calama,Club_Deportivo_23_de_Marzo
+2201,Antofagasta,2,Calama,Colegio_Pedro_Vergara_Keller
+2201,Antofagasta,2,Calama,Centro
+2201,Antofagasta,2,Calama,Hospital_El_Cobre
+2201,Antofagasta,2,Calama,Nueva_Chiu_Chiu
+2201,Antofagasta,2,Calama,Oasis
+2201,Antofagasta,2,Calama,Servicio_Medico_Legal
+2201,Antofagasta,2,Calama,Aukahuasi
+2201,Antofagasta,2,Calama,San_Jose
+2201,Antofagasta,2,Calama,Villa_Caspana
+2302,Antofagasta,2,Maria Elena,Hospital
+2302,Antofagasta,2,Maria Elena,Iglesia
+2302,Antofagasta,2,Mejillones,Jardin_Infantil_Integra
+2302,Antofagasta,2,Mejillones,Juan_Jose_Latorre
+2302,Antofagasta,2,Mejillones,Compania_de_bomberos
+2302,Antofagasta,2,Mejillones,Ferrocarriles
+2103,Antofagasta,2,Sierra Gorda,Sierra Gorda
+2104,Antofagasta,2,Taltal,Paposo
+2104,Antofagasta,2,Taltal,Punto_de_maximo_impacto
+2301,Antofagasta,2,Tocopilla,Bomberos
+2301,Antofagasta,2,Tocopilla,Gobernacion
+2301,Antofagasta,2,Tocopilla,Super_site
+2301,Antofagasta,2,Tocopilla,Tres_marias
+2301,Antofagasta,2,Tocopilla,Escuela_e10
+2301,Antofagasta,2,Tocopilla,Centro
+2301,Antofagasta,2,Tocopilla,Escuela_e12
+2301,Antofagasta,2,Tocopilla,Escuela_Gabriela_Mistral
+2301,Antofagasta,2,Tocopilla,Sur
+3101,Atacama,3,Copiapó,Copiapo_sivica
+3101,Atacama,3,Copiapó,Copiapo
+3101,Atacama,3,Copiapó,Los_volcanes
+3101,Atacama,3,Copiapó,Paipote
+3101,Atacama,3,Copiapó,San_fernando
+3202,Atacama,3,Diego de Almagro,Cap
+3202,Atacama,3,Diego de Almagro,Cine_inca
+3202,Atacama,3,Diego de Almagro,Dona_ines
+3202,Atacama,3,Diego de Almagro,Intelec
+3303,Atacama,3,Freirina,sm6
+3303,Atacama,3,Freirina,sm7
+3303,Atacama,3,Freirina,sm8
+3304,Atacama,3,Huasco,huasco_sivica
+3304,Atacama,3,Huasco,21_de_mayo
+3304,Atacama,3,Huasco,eme_f
+3304,Atacama,3,Huasco,eme_m
+3304,Atacama,3,Huasco,eme_me
+3304,Atacama,3,Huasco,huasco_ii
+3304,Atacama,3,Huasco,sm1
+3304,Atacama,3,Huasco,sm2
+3304,Atacama,3,Huasco,sm3
+3304,Atacama,3,Huasco,sm4
+3304,Atacama,3,Huasco,sm5
+3103,Atacama,3,Tierra Amarilla,Tierra_amarilla
+3103,Atacama,3,Tierra Amarilla,Pabellon
+4103,Coquimbo,4,Andacollo,Andacollo
+4103,Coquimbo,4,Andacollo,Chepiquilla
+4103,Coquimbo,4,Andacollo,El_sauce
+4103,Coquimbo,4,Andacollo,Hospital
+4103,Coquimbo,4,Andacollo,Urmeneta_plaza_centenario
+4102,Coquimbo,4,Coquimbo,Coquimbo
+4102,Coquimbo,4,Coquimbo,La_serena
+4203,Coquimbo,4,Los Vilos,Caimanes
+4203,Coquimbo,4,Los Vilos,Chacay
+4203,Coquimbo,4,Los Vilos,El_mauro
+4203,Coquimbo,4,Los Vilos,Punta_chungo
+4204,Coquimbo,4,Salamanca,Cuncumen
+4204,Coquimbo,4,Salamanca,Camisas
+4204,Coquimbo,4,Salamanca,Coiron
+4204,Coquimbo,4,Salamanca,Hotel_mina
+4204,Coquimbo,4,Salamanca,Quelen_alto
+5502,Valparaíso,5,Calera,La_cruz_colbun
+5502,Valparaíso,5,Calera,La_calera
+5502,Valparaíso,5,Calera,Rural_1
+5702,Valparaíso,5,Catemu,Catemu
+5702,Valparaíso,5,Catemu,Chagres_meteorologia
+5702,Valparaíso,5,Catemu,Romeral
+5702,Valparaíso,5,Catemu,Santa_margarita
+5103,Valparaíso,5,Concón,Concon_mma
+5103,Valparaíso,5,Concón,Colmo
+5103,Valparaíso,5,Concón,Concon
+5103,Valparaíso,5,Concón,Junta_de_vecinos
+5103,Valparaíso,5,Concón,Las_gaviotas
+5103,Valparaíso,5,Concón,Concon_sur
+5504,Valparaíso,5,La Cruz,La_cruz_melon
+5301,Valparaíso,5,Los Andes,Los_andes
+5704,Valparaíso,5,Panquehue,Lo_campo
+5105,Valparaíso,5,Puchuncaví,Puchuncavi
+5105,Valparaíso,5,Puchuncaví,Campiche
+5105,Valparaíso,5,Puchuncaví,La_greda
+5105,Valparaíso,5,Puchuncaví,Los_maitenes
+5105,Valparaíso,5,Puchuncaví,Ventanas
+5105,Valparaíso,5,Puchuncaví,Metereologica_principal
+5105,Valparaíso,5,Puchuncaví,Terminal_concentrados
+5501,Valparaíso,5,Quillota,Cuerpo_de_bomberos
+5501,Valparaíso,5,Quillota,La_palma
+5501,Valparaíso,5,Quillota,San_pedro
+5501,Valparaíso,5,Quillota,Manzanar
+5801,Valparaíso,5,Quilpué,Quilpue
+5801,Valparaíso,5,Quilpué,armat
+5107,Valparaíso,5,Quintero,Centro_quintero
+5107,Valparaíso,5,Quintero,Loncura
+5107,Valparaíso,5,Quintero,Central_quintero
+5107,Valparaíso,5,Quintero,Quintero
+5107,Valparaíso,5,Quintero,Sur
+5107,Valparaíso,5,Quintero,Valle_alegre
+5101,Valparaíso,5,Valparaíso,Valparaiso
+5109,Valparaíso,5,Viña del Mar,Vina_del_mar
+13102,Metropolitana de Santiago,13,Cerrillos,Cerrillos
+13102,Metropolitana de Santiago,13,Cerrillos,Cerrillos_i
+13103,Metropolitana de Santiago,13,Cerro Navia,Cerro_navia
+13105,Metropolitana de Santiago,13,El Bosque,El_bosque
+13108,Metropolitana de Santiago,13,Independencia,Independencia
+13110,Metropolitana de Santiago,13,La Florida,La_florida
+13114,Metropolitana de Santiago,13,Las Condes,Las_condes
+13124,Metropolitana de Santiago,13,Pudahuel,Pudahuel
+13201,Metropolitana de Santiago,13,Puente Alto,Puente_alto
+13125,Metropolitana de Santiago,13,Quilicura,Quilicura
+13125,Metropolitana de Santiago,13,Quilicura,Quilicura_i
+13101,Metropolitana de Santiago,13,Santiago,Parque_o'higgins
+13601,Metropolitana de Santiago,13,Talagante,Talagante
+6102,Libertador General Bernardo O'Higgins,6,Codegua,Codegua
+6102,Libertador General Bernardo O'Higgins,6,Codegua,Subestacion_candelaria
+6108,Libertador General Bernardo O'Higgins,6,Machalí,Cauquenes
+6108,Libertador General Bernardo O'Higgins,6,Machalí,Cipreses
+6108,Libertador General Bernardo O'Higgins,6,Machalí,Coya_poblacion
+6108,Libertador General Bernardo O'Higgins,6,Machalí,Sewell
+6110,Libertador General Bernardo O'Higgins,6,Mostazal,Casas_de_peuco
+6110,Libertador General Bernardo O'Higgins,6,Mostazal,San_francisco_de_mostazal
+6101,Libertador General Bernardo O'Higgins,6,Rancagua,Rancagua_i
+6101,Libertador General Bernardo O'Higgins,6,Rancagua,Rancagua_ii
+6115,Libertador General Bernardo O'Higgins,6,Rengo,Rengo
+6116,Libertador General Bernardo O'Higgins,6,Requinoa,Mvc
+6116,Libertador General Bernardo O'Higgins,6,Requinoa,Totihue
+6301,Libertador General Bernardo O'Higgins,6,San Fernando,San_fernando
