@@ -1,0 +1,4 @@
+"FECHA..YYMMDD." "HORA..HHMM." "Registros.validados" "Registros.preliminares" "Registros.no.validados" "X" "identificador1" "identificador2"
+"1" 80201 0 NA 69.8889 NA NA "Vsewell" "mp10"
+"2" 80301 0 NA NA NA NA "Vsewell" "mp10"
+"3" 80401 0 NA NA NA NA "Vsewell" "mp10"
